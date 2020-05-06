@@ -1,5 +1,6 @@
 ---
-title : introduction
+layout: post
+title : "introduction"
 date : 2020-05-07
 category : introduction
 ---
