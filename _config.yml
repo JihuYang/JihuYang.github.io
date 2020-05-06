@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Yang Jihu"
+  avatar           : ![텍스트](https://i.pinimg.com/236x/19/3a/15/193a1552cc00589da96c9c8ce8cc4ba9--moomin-cartoon-sketch-free.jpg) # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I'm studying CSEE"
+  location         : "Seoul, South Korea"
   email            :
   links:
     - label: "Email"
