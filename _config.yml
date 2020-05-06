@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hello"
+title                    : "Welcome to Jihu Yang's website:)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jihu Yang"
@@ -109,12 +109,13 @@ analytics:
 author:
   name             : "Yang Jihu"
   avatar           : ![텍스트](https://i.pinimg.com/236x/19/3a/15/193a1552cc00589da96c9c8ce8cc4ba9--moomin-cartoon-sketch-free.jpg) # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm studying CSEE"
+  bio              : "I'm studying CSEE at Handong Global University"
   location         : "Seoul, South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
+      url: mailto:21900433@handong.edu
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
