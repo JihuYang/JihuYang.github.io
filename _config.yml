@@ -1,18 +1,14 @@
----
-title: Minimal Text
-baseurl: "https://jihuyang.github.io"
-desc: A minimal blog for off-topic blog entries.
-about: I am a web developer, software engineer, and project manager currently living in Collinsville, Illinois. I'm a little weird but pretty friendly.
-image: https://pinto-light.glitch.me/?width=500&height=500&url=https://i.imgur.com/mxUVc2x.jpg&extension=jpg
-excerpt_separator: "<!-- more -->"
+# Site settings
+title: Twenty Blog
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jihuyang.github.io" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
 markdown: kramdown
-gems:
-- jekyll-paginate
-exclude:
-  - .jekyll-metadata
-  - README.md
-  - CNAME
-paginate: 5
-paginate_path: "/:num/"
-highlighter: rouge
-permalink: pretty
