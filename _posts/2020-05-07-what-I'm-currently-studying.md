@@ -1,9 +1,10 @@
 ---
 layout: post
-title = "what I'm currently studying"
+title : "what I'm currently studying"
 date : 2020-05-07
 category : introduction
 ---
+
 
 
 ![](http://csee.handong.edu/wp-content/uploads/2018/02/csee-logo-symbol-e1518540168998.png "CSEE")
