@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Yang Jihu"
-  avatar           : ![텍스트](https://i.pinimg.com/236x/19/3a/15/193a1552cc00589da96c9c8ce8cc4ba9--moomin-cartoon-sketch-free.jpg) # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : ![](https://i.pinimg.com/236x/19/3a/15/193a1552cc00589da96c9c8ce8cc4ba9--moomin-cartoon-sketch-free.jpg) # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm studying CSEE at Handong Global University"
   location         : "Seoul, South Korea"
   email            :
